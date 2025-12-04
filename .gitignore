@@ -1,0 +1,21 @@
+# Ignore macOS system files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Python virtual environments
+venv/
+__pycache__/
+
+# IDE/editor metadata
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Any other metadata folder you want to ignore
+metadata/
